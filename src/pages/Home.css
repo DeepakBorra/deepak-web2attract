@@ -1,0 +1,26 @@
+.homecontainer{
+  
+        background-image: url("https://wabisabiproject.com/media/galleries/workshops/block-printing/2021_06_rotated.jpg");
+        background-size: cover;
+        background-position: center;
+        padding: 20px;
+        height: 150mm;
+
+}
+.homecontainer2{
+    display: flex;
+    background-color: rgb(179, 138, 51);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 20px;
+    font-size: 10px;
+    height: 50mm;
+    font-weight: bold;
+
+}
+.homecontainer3{
+    padding: 30px;
+    background-color:  antiquewhite;
+    color: rgb(226, 179, 11);
+}

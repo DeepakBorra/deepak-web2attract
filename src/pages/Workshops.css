@@ -1,0 +1,109 @@
+
+.workshopcontainer1 h1 {
+    background-image: url('https://wabisabiproject.com/media/galleries/documenting-natural-dyes-with-fingers-in-diary.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 20px;
+    font-size: 36px;
+    height: 80mm;
+}
+.images{
+ 
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 20px;
+
+}
+.workshopcontainer2{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/EWM_shop_2007.jpg/1920px-EWM_shop_2007.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 20px;
+    font-size: 10px;
+    height: 80mm;
+
+}
+.workshopcontainer3{
+    background-image: url('https://vignanits.ac.in/wp-content/uploads/2020/07/enggwork.jpg');
+    background-size: cover;
+    background-position: center;
+    color: black;
+    padding: 20px;
+    font-size: 10px;
+    height: 80mm;
+
+}
+.workshopcontainer4{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPCgasKArVfeKA2dvE9emJj7JYndXgsf0IA&s');
+    background-size: cover;
+    background-position: center;
+    color: black;
+    padding: 20px;
+    font-size: 10px;
+    height: 80mm;
+
+}
+.workshopcontainer5{
+    background-image: url('https://www.eventbrite.com/blog/wp-content/uploads/2023/02/image5-min-1.png');
+    background-size: cover;
+    background-position: center;
+    color: black;
+    padding: 20px;
+    font-size: 10px;
+    height: 80mm;
+
+}
+.workshopcontainer6{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMpxFaRSA5jJlO3M0QdUv87xzOeeIvOSczEg&s');
+    background-size: cover;
+    background-position: center;
+    color: black;
+    padding: 20px;
+    font-size: 10px;
+    height: 80mm;
+
+}
+.workshopcontainer7{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN6tbiP2jrTxtkw-LP814d7gJ0Wso7iJUPCQ&s');
+    background-size: cover;
+    background-position: center;
+    color: black;
+    padding: 20px;
+    font-size: 10px;
+    height: 80mm;
+
+}
+.workshopcontainer8{
+    background-image: url('https://cdn.eventespresso.com/wp-content/uploads/2023/07/17204756/workshop-organization-ideas.jpg');
+    background-size: cover;
+    background-position: center;
+    color: black;
+    padding: 20px;
+    font-size: 10px;
+    height: 80mm;
+
+}
+.workshopcontainer9{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStYrFr_aq99E3xtQDx_lk-L9f4gekTc1mYBQ&s');
+    background-size: cover;
+    background-position: center;
+    color: black;
+    padding: 20px;
+    font-size: 10px;
+    height: 80mm;
+
+}
+.workshopcontainer10{
+    background-color: rgb(200, 58, 58);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 20px;
+    font-size: 10px;
+    height: 80mm;
+
+}
+

@@ -1,0 +1,25 @@
+.secondcarduppercontent{
+    background-color: rgb(250, 70, 70);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    margin: 5mm;
+   
+}
+.notesContainer{
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+.notesContainer h1 {
+    background-image: url('https://wabisabiproject.com/media/galleries/photo-1652285952513-9d363975f5ae.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 30px;
+    font-size: 36px;
+    height: 80mm;
+    margin: 5mm;
+
+}
